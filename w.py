@@ -24,7 +24,7 @@ camera_data = {
     '4523540f1504cd17100c4835e85b7eefd49911580f8efff0599a8f283be6b9e3': {'id': '17', 'status': 'Inactive', 'flag': ''},
     '4ec9599fc203d176a301536c2e091a19bc852759b255bd6818810a42c5fed14a': {'id': '18', 'status': 'Inactive', 'flag': ''},
     '9400f1b21cb527d7fa3d3eabba93557a18ebe7a2ca4e471cfe5e4c5b4ca7f767': {'id': '19', 'status': 'Inactive', 'flag': ''},
-    'f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b': {'id': '20', 'status': 'Inactive', 'flag': ''},
+    'f5ca38f748a1d6eaf726b8a42fb575c3c71f1864a8143301782de13da2d9202b': {'id': '20', 'status': 'Inactive', 'flag': 'root@localhost{this_is_fake_flag}'},
 }
 
 # HTML templates
